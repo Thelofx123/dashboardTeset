@@ -1,0 +1,10 @@
+.form2{
+    width: 500px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    left: 30%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+   border: 1px solid black;
+    padding: 50px 35px;
+}
